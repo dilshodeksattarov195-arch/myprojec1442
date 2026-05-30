@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessioncecrypt",
+        "uuid": 11749416,
+        "checksum": "pk4i8"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
